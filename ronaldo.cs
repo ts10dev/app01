@@ -5,5 +5,5 @@
 
 public void Rrr()
 {
-	
+	int val = 0
 }
