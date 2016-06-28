@@ -1,4 +1,9 @@
 ﻿private void Ronaldo
 {
-	string testando = "Tetando"
+	string testando = "Testando"
+}
+
+public void Rrr()
+{
+	
 }
